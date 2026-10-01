@@ -1,7 +1,6 @@
 ---
 name: smart-brevity
 description: Edit, rewrite, and structure communications using the Smart Brevity framework. Use when the user asks to edit emails, update drafts, summarize proposals, condense long memos, improve clarity, or apply Smart Brevity principles.
-
 ---
 
 # Smart Brevity Communication Editor
