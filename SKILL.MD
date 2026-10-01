@@ -72,4 +72,4 @@ Bullet-point assessment of key fixes made (e.g., eliminated buried lead, clarifi
   1. What is the single most critical takeaway or ask?
   2. Who is the primary audience and what do they care about?
   3. Is there a strict deadline or consequence if no action is taken?
-- **Literary / Academic text:** Smart Brevity optimizes for rapid decision-making and operational clarity. Note briefly if aggressive pruning may compromise necessary scholarly or narrative nuance.
+- **Literary / Academic text:**  Brevity optimizes for rapid decision-making and operational clarity. Note briefly if aggressive pruning may compromise necessary scholarly or narrative nuance.
