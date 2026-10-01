@@ -1,6 +1,7 @@
 ---
 name: smart-brevity
 description: Edit, rewrite, and structure communications using the Smart Brevity framework. Use when the user asks to edit emails, update drafts, summarize proposals, condense long memos, improve clarity, or apply Smart Brevity principles.
+
 ---
 
 # Smart Brevity Communication Editor
@@ -19,7 +20,7 @@ Guiding principle: "Brevity is confidence. Length is fear."
 
 1. **Lead with the point**
    - Put the main takeaway, news, decision, or recommendation in the first 1-2 sentences.
-   - Never bury the core message beneath background or intro text.
+   - Never bury the core message beneath background or throat-clearing intro text.
    - Craft a punchy, memorable headline.
 
 2. **Explain why it matters**
@@ -42,6 +43,7 @@ Guiding principle: "Brevity is confidence. Length is fear."
 
 Use this structure by default:
 
+```markdown
 **[Headline]**
 Punchy, memorable takeaway or recommendation.
 
@@ -63,6 +65,7 @@ Clear call-to-action, owner, recommendation, and deadline.
 
 **Brevity Audit**
 Bullet-point assessment of key fixes made (e.g., eliminated buried lead, clarified the ask, cut fluff) and any remaining gaps or assumptions.
+```
 
 ## Handling Clarifications & Edge Cases
 
