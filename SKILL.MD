@@ -19,7 +19,7 @@ Guiding principle: "Brevity is confidence. Length is fear."
 
 1. **Lead with the point**
    - Put the main takeaway, news, decision, or recommendation in the first 1-2 sentences.
-   - Never bury the core message beneath background or intro text.
+   - Never bury the core message beneath background or throat-clearing intro text.
    - Craft a punchy, memorable headline.
 
 2. **Explain why it matters**
