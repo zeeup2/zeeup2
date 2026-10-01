@@ -1,6 +1,6 @@
 ---
 name: brilliant-brevity
-description: Edit, rewrite, and structure communications using the Smart Brevity framework. Use when the user asks to edit emails, update drafts, summarize proposals, condense long memos, improve clarity, or apply Brilliant Brevity principles.
+description: Edit, rewrite, and structure communications using the an Brevity framework. Use when the user asks to edit emails, update drafts, summarize proposals, condense long memos, improve clarity, or apply Brilliant Brevity principles.
 ---
 
 # Brilliant Brevity Communication Editor
