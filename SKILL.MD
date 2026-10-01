@@ -1,3 +1,8 @@
+---
+name: smart-brevity
+description: Edit, rewrite, and structure communications using the Smart Brevity framework. Use when the user asks to edit emails, update drafts, summarize proposals, condense long memos, improve clarity, or apply Smart Brevity principles.
+---
+
 # Smart Brevity Communication Editor
 
 Edit and transform unclear, verbose, or sender-focused writing into audience-first communication that is concise, scannable, memorable, and actionable.
@@ -14,7 +19,7 @@ Guiding principle: "Brevity is confidence. Length is fear."
 
 1. **Lead with the point**
    - Put the main takeaway, news, decision, or recommendation in the first 1-2 sentences.
-   - Never bury the core message beneath background or throat-clearing intro text.
+   - Never bury the core message beneath background or intro text.
    - Craft a punchy, memorable headline.
 
 2. **Explain why it matters**
@@ -59,12 +64,3 @@ Clear call-to-action, owner, recommendation, and deadline.
 
 **Brevity Audit**
 Bullet-point assessment of key fixes made (e.g., eliminated buried lead, clarified the ask, cut fluff) and any remaining gaps or assumptions.
-```
-
-## Handling Clarifications & Edge Cases
-
-- **Underspecified input:** If crucial context is missing, produce a best-effort draft using explicit assumptions, then ask focused questions:
-  1. What is the single most critical takeaway or ask?
-  2. Who is the primary audience and what do they care about?
-  3. Is there a strict deadline or consequence if no action is taken?
-- **Literary / Academic text:** Smart Brevity optimizes for rapid decision-making and operational clarity. Note briefly if aggressive pruning may compromise necessary scholarly or narrative nuance.
